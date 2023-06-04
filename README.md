@@ -1,0 +1,2 @@
+# K_Means_Clustering
+Initially, genarated personal data matrix using gen_kmeansdata. After that reporting the number of features and objects, mean value, standard deviation, histogram, covariance matrix and correlation matrix for the generated data set were done. In secound part, the number of clusters was assigned as 3, 4 and 5. The performance was reportedusing silhouette measure. Finally, the mean silhouette value reported that 4 was the most suitable number of clusters.
