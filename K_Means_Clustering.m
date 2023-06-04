@@ -1,6 +1,3 @@
-% Plymouth ID - 10749974
-% Plymouth Username - Matharage Weerasinghe
-
 X=gen_kmeansdata(10749974); % Genarate Personal Data Matrix 
 
 % Data Analysis
